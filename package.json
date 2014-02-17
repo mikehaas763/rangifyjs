@@ -1,0 +1,24 @@
+{
+  "name": "rangifyjs",
+  "version": "0.0.1",
+  "description": "Transforms from a string of ranges to an array and vice versa",
+  "main": "lib/rangify.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikehaas763/rangifyjs"
+  },
+  "keywords": ["range", "rangify", "rangifyjs"],
+  "author": "Mike haas <mike@emken.co>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/mikehaas763/rangifyjs/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "mocha": "~1.17.0"
+  }
+}
