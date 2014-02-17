@@ -1,6 +1,6 @@
 {
   "name": "rangifyjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transforms from a string of ranges to an array and vice versa",
   "main": "lib/rangify.js",
   "scripts": {
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "https://github.com/mikehaas763/rangifyjs"
   },
-  "keywords": ["range", "rangify", "rangifyjs"],
+  "keywords": [
+    "range",
+    "rangify",
+    "rangifyjs"
+  ],
   "author": "Mike haas <mike@emken.co>",
   "license": "BSD-3-Clause",
   "bugs": {
